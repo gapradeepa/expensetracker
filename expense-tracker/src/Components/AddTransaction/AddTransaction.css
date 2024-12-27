@@ -1,0 +1,35 @@
+.addtransaction {
+  margin-top: 20px;
+}
+.addtransaction * {
+  margin-top: 10px;
+}
+
+input {
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3); /* Add shadow */
+  border: none;
+  width: 75%;
+  padding: 10px;
+}
+
+input:hover {
+  outline: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+.button {
+  margin-top: 20px;
+  padding: 10px;
+  width: 78%;
+  border-radius: 5px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3); /* Add shadow */
+  background-color: dodgerblue;
+  color: white;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

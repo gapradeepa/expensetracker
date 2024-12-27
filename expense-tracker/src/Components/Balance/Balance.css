@@ -1,0 +1,14 @@
+.balance,
+.balanceamount {
+  margin-left: 100px;
+}
+
+.balance {
+  margin-top: 20px;
+}
+
+.balanceamount {
+  margin-top: -20px;
+  font-weight: 600;
+  font-size: larger;
+}
